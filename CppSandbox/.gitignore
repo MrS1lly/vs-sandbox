@@ -1,0 +1,13 @@
+*.sdf
+*.suo
+
+
+/Debug
+GoogleTest/Debug
+HelloWorld/Debug
+TEST_HelloWorld/Debug
+HelloWorld/Release
+TEST_HelloWorld/Release
+SharedInterfaces/Debug
+TEST_HelloWorld/Debug
+TestLib/Debug

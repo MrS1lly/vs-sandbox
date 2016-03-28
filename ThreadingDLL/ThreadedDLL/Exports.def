@@ -1,0 +1,4 @@
+LIBRARY ThreadedDLL
+EXPORTS
+	StartThread	@1
+	StopThread	@2

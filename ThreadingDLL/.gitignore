@@ -1,0 +1,7 @@
+*.sdf
+*.suo
+
+
+/Debug
+TestApp/Debug
+ThreadedDLL/Debug
